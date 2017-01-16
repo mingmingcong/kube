@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.5.1
-MAINTAINER mingmingcong mingming@dong-design.com
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.5.1
+MAINTAINER cmm cmm@mmcloud.io

@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:3.0
-MAINTAINER mingmingcong mingming@dong-design.com
+FROM gcr.io/google_containers/pause-amd64:3.0
+MAINTAINER cmm cmm@mmcloud.io
