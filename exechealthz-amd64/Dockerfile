@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/exechealthz-amd64:1.1
-MAINTAINER  mingmingcong mingming@dong-design.com
+FROM gcr.io/google_containers/kube-apiserver-amd64:1.2
+MAINTAINER mingmingcong mingming@dong-design.com

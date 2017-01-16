@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
-MAINTAINER  mingmingcong mingming@dong-design.com
+FROM gcr.io/google_containers/kube-apiserver-amd64:3.0.14-kubeadm
+MAINTAINER mingmingcong mingming@dong-design.com
