@@ -6,7 +6,7 @@ kube-discovery-amd64:1.0
 pause-amd64:3.0
 kubedns-amd64:1.10.1
 kube-dnsmasq-amd64:1.10.1
-dnsmasq-metrics-amd64:1.0
+dnsmasq-metrics-amd64:1.10.1
 exechealthz-amd64:1.2
-kube-proxy-amd64:v1.5.1
-kubernetes-dashboard-amd64:v1.5.1
+kube-proxy-amd64:v1.5.2
+kubernetes-dashboard-amd64:v1.5.2
